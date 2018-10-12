@@ -1,0 +1,10 @@
+# Ignore Maven build directories
+target
+
+*.project
+.project
+.checkstyle
+.settings
+.classpath
+.idea
+*.iml
